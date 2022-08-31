@@ -1,3 +1,7 @@
+/*
+Exercise:
+Given the data, define the interface "User" and use it accordingly.
+*/
 export  interface User  {
     name: string;
     age: number;
